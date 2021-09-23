@@ -1,0 +1,37 @@
+Run the game using the main.py file
+Press esc key to exit game
+
+Features (TP2):
+- Basic Mario controls (Arrow keys, up to jump)
+- Collisions with tiles, jumping on platforms
+- Enemies (only goomba right now)
+- Jump on enemies (must be precise to work right now)
+- Can hit Q-block (no powerups)
+- Death and game over screen
+- tile map for level
+- Sounds
+
+Updated Features (TP3):
+- Title screen
+- Scrolls to the right
+- Flag pole at the end of the level
+- Bowser at the end of the level
+- Koopas and flying koopas
+- Grab coins by hitting ?-blocks
+- Powerups
+- Fire flower: shoots fireballs to kill enemy
+- Ice flowers: shoots ice balls to freeze enemy
+
+
+Tutorials Used:
+Youtube:
+  Paget Teaches:
+    https://www.youtube.com/watch?v=jMe7xQACb8U&t=311s
+  KidsCanCode:
+    Pygame:
+      https://www.youtube.com/watch?v=uWvb3QzA48c
+    Tilemaps and collisions:
+      https://www.youtube.com/watch?v=ajR4BZBKTr4
+    
+
+
