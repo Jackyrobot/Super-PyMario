@@ -2,6 +2,8 @@
 
 ![alt text](https://i.imgur.com/LrecoCt.png)
 
+This was the final project I created for 15-112 Fundamentals of Programming & Computer Science at Carnegie Mellon University. I recreated a custom version of the popular game Super Mario Bros using Python and Pygame. This custom version lacks many of the animations and levels found in the original game, but has new mechanics in it such as an ice flower powerup. 
+
 How to run:
 1. Download Python 3.5.x (recommended)
 2. Download Pygame
